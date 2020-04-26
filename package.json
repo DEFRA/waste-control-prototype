@@ -51,5 +51,21 @@
       "nunjucks"
     ]
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEFRA/waste-control-prototype.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DEFRA/waste-control-prototype/issues"
+  },
+  "homepage": "https://github.com/DEFRA/waste-control-prototype#readme"
 }
