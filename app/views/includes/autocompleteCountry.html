@@ -1,8 +1,8 @@
 {% macro autocompleteCountry(data) %}
 
     
-    {% from "select/macro.njk"        import govukSelect %}
-    {% from "fieldset/macro.njk"      import govukFieldset %}
+  {% from "govuk/components/select/macro.njk"  import govukSelect %}
+  {% from "govuk/components/fieldset/macro.njk" import govukFieldset %}
 
     {% call govukFieldset({
       legend: {
