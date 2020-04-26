@@ -3,7 +3,7 @@
 module.exports = function (router, myPath) {
 
 
-  router.get('/' + myPath + '/name', function (req, res) {
+  router.get('/' + myPath + '/what-do-you-want-to-export', function (req, res) {
     res.render(myPath + '/what-do-you-want-to-export',{
     })
   })

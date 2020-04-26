@@ -63,9 +63,5 @@
     "url": "git+https://github.com/DEFRA/waste-control-prototype.git"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/DEFRA/waste-control-prototype/issues"
-  },
-  "homepage": "https://github.com/DEFRA/waste-control-prototype#readme"
+  "license": "ISC"
 }

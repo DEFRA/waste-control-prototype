@@ -3,5 +3,11 @@ module.exports = function(router, myPath) {
     res.render(myPath + '/start',{
     })
   })
+
+  router.post('/' + myPath + '/start', function (req, res) {
+
+ 
+   })
+
 }
 
