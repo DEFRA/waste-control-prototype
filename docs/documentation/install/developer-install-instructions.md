@@ -1,12 +1,12 @@
 # Instructions for developers
 
-It's built on the [Express](http://expressjs.com/) framework, and uses these GOV.UK resources:
+It's built on the [Express](http://expressjs.com/) framework, and uses [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend).
 
-- [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend)
+If you already installed a previous version of the Prototype Kit, you can [update the kit](/docs/updating-the-kit) instead.
 
 ## Requirements
 
-node.js - version 6.x.x
+node.js - version 12.x.x
 
 ## Install dependencies
 
